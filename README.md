@@ -70,5 +70,18 @@ These techniques are transferable to platforms like Netflix, Prime Video, or Spo
 
 ---
 
-## Folder Structure
+
+---
+
+## Conclusion
+
+The MovieLens EDA project highlights how demographics shape movie preferences and rating behaviors. It also lays a strong foundation for future modeling efforts like collaborative filtering or genre-based recommendations.
+
+---
+
+## Acknowledgments
+
+Thanks to [GroupLens](https://grouplens.org/datasets/movielens/) for providing the dataset and to the Datapreneurs team for facilitating this analytical case study.
+
+
 
